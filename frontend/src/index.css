@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #07090F; font-family: 'DM Sans', system-ui, sans-serif; }
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap');
+
+/* ReactFlow overrides */
+.react-flow__controls button {
+  background: #0D1121 !important;
+  border: none !important;
+  color: #7A8DAE !important;
+}
+.react-flow__controls button:hover { background: #131929 !important; color: #E4EAF6 !important; }
+.react-flow__edge-path { stroke: #374470 !important; }
+.react-flow__edge.selected .react-flow__edge-path { stroke: #4B8EFF !important; }
+.react-flow__connection-line { stroke: #4B8EFF !important; }
