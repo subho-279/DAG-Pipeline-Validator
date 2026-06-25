@@ -1,4 +1,4 @@
-# DAG-Pipeline-Validator
+# PIPELINE VISUALIZER
 
 A visual AI pipeline builder. Drag, connect, and validate nodes on an infinite canvas — then submit the graph to a backend that checks whether it forms a valid DAG.
 
